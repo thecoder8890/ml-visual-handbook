@@ -1,4 +1,3 @@
-# ml-visual-handbook
 
 # 📊 Comprehensive Guide to Enhanced Visualization Notebooks
 
